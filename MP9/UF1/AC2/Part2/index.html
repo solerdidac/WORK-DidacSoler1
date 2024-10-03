@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <h1>Mi Portafolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+                <li><a href="#habilidades">Habilidades</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección de Proyectos -->
+    <section id="proyectos">
+        <h2>Proyectos</h2>
+        <div class="proyecto">
+            <img src="img/nuevo-seat-ibiza.png" alt="Descripción del Proyecto 1">
+            <h3>Carnet de Conducir B1</h3>
+            <p>Durante este año quiero conseguir el carnet e coche debido a que es algo que creo que me puede aportar mucho a mi dia a dia</p>
+        </div>
+        <div class="proyecto">
+            <img src="img/descarga.jpeg" alt="Descripción del Proyecto 2">
+            <h3>DAW (Desarrollo de Aplicaciones Web)</h3>
+            <p>Descripción breve del Proyecto 2. Aquí puedes detallar de qué se trata el proyecto y qué tecnologías utilizaste.</p>
+        </div>
+        <div class="proyecto">
+            <img src="img/images.jpeg" alt="Descripción del Proyecto 3">
+            <h3>Proyecto Flask</h3>
+            <p>Descripción breve del Proyecto 3. Aquí puedes detallar de qué se trata el proyecto y qué tecnologías utilizaste.</p>
+        </div>
+    </section>
+    <!-- Sección de Habilidades -->
+    <!-- Sección de Habilidades -->
+<section id="habilidades">
+    <h2 style="text-align: center;">Habilidades</h2>
+    <table class="tabla-habilidades">
+        <thead>
+            <tr>
+                <th>Habilidad</th>
+                <th>Nivel</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML</td>
+                <td>Avanzado</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Intermedio</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>Basico</td>
+            </tr>
+            <tr>
+                <td>Git</td>
+                <td>Intermedio</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+    <!-- Sección de Contacto -->
+    <section id="contacto">
+        <h2 style="text-align: center;">Contacto</h2>
+        <form action="#" method="post" class="form-contacto">
+            <div class="form-group">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+            </div>
+            <div class="form-group">
+                <button type="submit">Enviar</button>
+            </div>
+        </form>
+    </section>
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2024 Mi Portafolio. Todos los derechos reservados.</p>
+        <div class="social-links">
+            <a href="https://www.facebook.com" target="_blank">Facebook</a>
+            <a href="https://www.twitter.com" target="_blank">Twitter</a>
+            <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+            <a href="https://www.github.com" target="_blank">GitHub</a>
+        </div>
+    </footer>
+</body>
+</html>
