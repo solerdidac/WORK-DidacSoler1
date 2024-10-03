@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulari HTML</title>
+</head>
+<body>
+    <h1>Formulario</h1>
+    <form action="/enviar" method="post">
+        
+        <!-- Nom -->
+        <label for="nom">Nom:</label>
+        <input type="text" id="nom" name="nom" maxlength="20" required autofocus placeholder="Introdueix el teu nom"><br><br>
+
+        <!-- Cognoms -->
+        <label for="cognoms">Cognoms:</label>
+        <input type="text" id="cognoms" name="cognoms" required placeholder="Introdueix els teus cognoms"><br><br>
+
+        <!-- Document d’identitat -->
+        <label for="dni">Document d’identitat:</label>
+        <input type="text" id="dni" name="dni" pattern="[0-9]{8}[A-Za-z]{1}" required placeholder="12345678A"><br><br>
+
+        <!-- Edat -->
+        <label for="edat">Edat:</label>
+        <input type="number" id="edat" name="edat" min="0" max="100" placeholder="Introdueix la teva edat"><br><br>
+
+        <!-- Data de naixement -->
+        <label for="dataNaixement">Data de naixement:</label>
+        <input type="date" id="dataNaixement" name="dataNaixement"><br><br>
+
+        <!-- Correu electrònic -->
+        <label for="email">Correu electrònic:</label>
+        <input type="email" id="email" name="email" placeholder="Introdueix el teu correu"><br><br>
+
+        <!-- Contrasenya -->
+        <label for="password">Contrasenya:</label>
+        <input type="password" id="password" name="password" required placeholder="Introdueix la teva contrasenya"><br><br>
+
+        <!-- Fotografia del DNI -->
+        <label for="dniFoto">Fotografia del DNI:</label>
+        <input type="file" id="dniFoto" name="dniFoto" accept="image/*" multiple><br><br>
+
+        <!-- Botó d'enviament -->
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
