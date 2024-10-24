@@ -1,4 +1,3 @@
-// NaveCombate.cs
 using System;
 
 namespace SistemaNavesEstelares

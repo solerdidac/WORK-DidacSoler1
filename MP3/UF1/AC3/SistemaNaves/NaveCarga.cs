@@ -13,7 +13,7 @@ namespace SistemaNavesEstelares
         {
             CapacidadCarga = capacidadCarga;
             Random random = new Random();
-            Kilometros = random.Next(500, 1001); // Número aleatorio entre 500 y 1000.
+            Kilometros = random.Next(500, 1001);
         }
 
         public override void EjecutarMision()
