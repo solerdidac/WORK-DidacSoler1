@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222;
+}
+
+.container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(6, 1fr);
+    max-width: 900px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.mail { grid-column: span 2; background-color: #5ba4ff; }
+.calendar { grid-column: span 2; background-color: #9146ff; }
+.internet { grid-column: span 1; background-color: #43b3ff; }
+.store { grid-column: span 1; background-color: #65a000; }
+
+.people { grid-column: span 2; background-color: #e68c00; }
+.photos { grid-column: span 2; background-color: #55a0ff; }
+.maps { grid-column: span 1; background-color: #b044ff; }
+.skydrive { grid-column: span 1; background-color: #4c90e0; }
+
+.messaging { grid-column: span 2; background-color: #ff47ac; }
+.video { grid-column: span 2; background-color: #ff2e2e; }
+.music { grid-column: span 2; background-color: #ff8000; }
+
+.desktop { grid-column: span 2; background-color: #004040; }
+.weather { grid-column: span 2; background-color: #0099ff; }
+.xbox { grid-column: span 1; background-color: #64c300; }
+.camera { grid-column: span 1; background-color: #c05858; }

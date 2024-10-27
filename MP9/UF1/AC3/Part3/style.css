@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.header-top {
+    background-color: #2b3d51;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 90%;
+}
+
+.logo {
+    color: #b4469f;
+    font-size: 1.5rem;
+}
+
+.search-bar {
+    width: 40%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.nav a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.banner {
+    background-color: #e0d5d2;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.banner-content {
+    text-align: left;
+    color: #a347a2;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+
+.banner-content h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.banner-content p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.banner-content button {
+    padding: 10px 20px;
+    background-color: #b4469f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.categories {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 0;
+}
+
+.category-box {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.category-box h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.gifts {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.gift-items {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.gift-item {
+    width: 100px;
+    height: 100px;
+    background-color: #e5e5e5;
+    border-radius: 5px;
+}
+
+.collections {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.collection {
+    flex: 1;
+    height: 150px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #333;
+    font-weight: bold;
+}
