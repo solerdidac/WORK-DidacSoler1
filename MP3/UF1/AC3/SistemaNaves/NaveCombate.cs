@@ -14,17 +14,17 @@ namespace SistemaNavesEstelares
 
         public override void ActivarSistemas()
         {
-            Console.WriteLine($"La nave de combate {Nombre} ha activado sus sistemas de combate.");
+            Console.WriteLine($"La {Nombre} ha activado sus sistemas de combate.");
         }
 
         public override void EjecutarMision()
         {
-            Console.WriteLine($"La nave de combate {Nombre} está atacando con potencia de fuego nivel {PotenciaAtaque}.");
+            Console.WriteLine($"La {Nombre} está atacando con potencia de fuego nivel {PotenciaAtaque}.");
         }
 
         public void RealizarAtaque()
         {
-            Console.WriteLine($"La nave de combate {Nombre} está realizando un ataque con potencia de {PotenciaAtaque}.");
+            Console.WriteLine($"La {Nombre} está realizando un ataque con potencia de {PotenciaAtaque}.");
         }
     }
 }

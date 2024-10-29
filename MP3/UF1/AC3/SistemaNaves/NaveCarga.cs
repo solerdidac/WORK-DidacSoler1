@@ -1,4 +1,3 @@
-// NaveCargaEspecializada.cs
 using System;
 
 namespace SistemaNavesEstelares
@@ -18,7 +17,7 @@ namespace SistemaNavesEstelares
 
         public override void EjecutarMision()
         {
-            Console.WriteLine($"La nave de carga especializada {Nombre} está defendiendo el espacio alrededor del planeta X.");
+            Console.WriteLine($"La{Nombre} está defendiendo el espacio alrededor del planeta X.");
         }
 
         public void MostrarKilometros()
@@ -28,12 +27,12 @@ namespace SistemaNavesEstelares
 
         public void Cargar()
         {
-            Console.WriteLine($"La nave de carga {Nombre} lleva una cantidad de carga de {CapacidadCarga} Kg.");
+            Console.WriteLine($"La {Nombre} lleva una cantidad de carga de {CapacidadCarga} Kg.");
         }
 
         public override void ActivarSistemas()
         {
-            Console.WriteLine($"La nave de carga especializada {Nombre} ha activado sus sistemas.");
+            Console.WriteLine($"La {Nombre} ha activado sus sistemas.");
         }
     }
 }

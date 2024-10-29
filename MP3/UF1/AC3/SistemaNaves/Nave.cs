@@ -15,17 +15,17 @@ namespace SistemaNavesEstelares
 
         public virtual void ActivarSistemas()
         {
-            Console.WriteLine($"La nave estelar {Nombre} ha activado sus sistemas.");
+            Console.WriteLine($"La {Nombre} ha activado sus sistemas.");
         }
 
         public virtual void EjecutarMision()
         {
-            Console.WriteLine($"La nave estelar {Nombre} está realizando una misión de exploración.");
+            Console.WriteLine($"La {Nombre} está realizando una misión de exploración.");
         }
 
         public virtual void ApagarSistemas()
         {
-            Console.WriteLine($"La nave estelar {Nombre} ha apagado sus sistemas.");
+            Console.WriteLine($"La {Nombre} ha apagado sus sistemas.");
         }
     }
 }
