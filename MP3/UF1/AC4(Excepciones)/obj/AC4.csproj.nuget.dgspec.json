@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4\\AC4.csproj": {}
+    "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4(Excepciones)\\AC4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4\\AC4.csproj": {
+    "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4(Excepciones)\\AC4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4\\AC4.csproj",
+        "projectUniqueName": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4(Excepciones)\\AC4.csproj",
         "projectName": "AC4",
-        "projectPath": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4\\AC4.csproj",
+        "projectPath": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4(Excepciones)\\AC4.csproj",
         "packagesPath": "C:\\Users\\didac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4\\obj\\",
+        "outputPath": "C:\\Users\\didac\\OneDrive\\Escritorio\\2DAW\\WORK-DidacSoler\\MP3\\UF1\\AC4(Excepciones)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\didac\\AppData\\Roaming\\NuGet\\NuGet.Config"
