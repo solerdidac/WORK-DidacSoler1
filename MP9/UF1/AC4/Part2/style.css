@@ -1,0 +1,34 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    width: 800px;
+    margin: auto;
+    grid-template-areas:
+        ". item1 item2 ."
+        "item4 item5 item6 item7"
+        "item8 item9 . .";
+}
+
+.item {
+    border: 3px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.item1 { grid-area: item1; }
+.item2 { grid-area: item2; }
+.item4 { grid-area: item4; }
+.item5 { grid-area: item5; }
+.item6 { grid-area: item6; }
+.item7 { grid-area: item7; }
+.item8 { grid-area: item8; }
+.item9 { grid-area: item9; }
