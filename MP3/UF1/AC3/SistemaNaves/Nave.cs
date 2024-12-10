@@ -20,7 +20,7 @@ namespace SistemaNavesEstelares
 
         public virtual void EjecutarMision()
         {
-            Console.WriteLine($"La {Nombre} está realizando una misión de exploración.");
+            Console.WriteLine($"La {Nombre} está realizando una mision de exploracion.");
         }
 
         public virtual void ApagarSistemas()
