@@ -1,0 +1,15 @@
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\bin\Debug\net8.0\AC2.exe
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\bin\Debug\net8.0\AC2.deps.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\bin\Debug\net8.0\AC2.runtimeconfig.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\bin\Debug\net8.0\AC2.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\bin\Debug\net8.0\AC2.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.AssemblyInfoInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.AssemblyInfo.cs
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.csproj.CoreCompileInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.sourcelink.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\refint\AC2.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\AC2.genruntimeconfig.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\AC2\obj\Debug\net8.0\ref\AC2.dll
