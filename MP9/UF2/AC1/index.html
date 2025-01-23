@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG y Mapas de Bits</title>
+</head>
+<body>
+    <h1>Imágenes Vectoriales (SVG):</h1>
+    
+    <!-- Casa en SVG (Vectorial) -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="250" height="300" viewBox="0 0 200 200">
+        <!-- Cielo -->
+        <rect x="0" y="0" width="200" height="130" fill="#87CEEB"/> <!-- Color azul claro -->
+        <!-- Sol -->
+        <circle cx="30" cy="40" r="20" fill="yellow"/>
+        <!-- Tierra -->
+        <rect x="0" y="130" width="200" height="30" fill="#A8E68E"/> <!-- Hierba más baja y color verde claro -->
+        <!-- Casa (más baja y ancha) -->
+        <rect x="50" y="70" width="100" height="60" fill="#F4A8A0"/> <!-- Color de la casa (rosa claro) -->
+        <!-- Techo -->
+        <polygon points="50,70 100,30 150,70" fill="#C67C4A"/> <!-- Techo color marrón -->
+        <!-- Puerta -->
+        <rect x="90" y="100" width="20" height="30" fill="#6A4E31"/> <!-- Puerta marrón -->
+        <!-- Ventanas -->
+        <rect x="60" y="80" width="20" height="20" fill="#E2E8F0"/> <!-- Ventanas blanco grisáceo -->
+        <rect x="120" y="80" width="20" height="20" fill="#E2E8F0"/> <!-- Ventanas blanco grisáceo -->
+    </svg>
+    
+    <h2>Imagen de un coche en SVG (Vectorial):</h2>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+        <!-- Cuerpo del coche -->
+        <rect x="50" y="100" width="200" height="50" fill="red" />
+        <!-- Techo del coche -->
+        <rect x="90" y="60" width="120" height="50" fill="red" />
+        <!-- Ventanas del coche -->
+        <rect x="100" y="75" width="40" height="20" fill="lightblue" />
+        <rect x="160" y="75" width="40" height="20" fill="lightblue" />
+        <!-- Ruedas del coche -->
+        <circle cx="80" cy="150" r="20" fill="gray" />
+        <circle cx="80" cy="150" r="12" fill="black" />
+        <circle cx="220" cy="150" r="20" fill="gray" />
+        <circle cx="220" cy="150" r="12" fill="black" />
+        <!-- Faros del coche -->
+        <rect x="50" y="110" width="10" height="10" fill="yellow" />
+        <rect x="240" y="110" width="10" height="10" fill="yellow" />
+    </svg>
+
+    <h2>Robot en SVG (Vectorial):</h2>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+        <!-- Cuerpo del robot -->
+        <rect x="100" y="120" width="100" height="120" fill="gray" />
+        <!-- Cabeza del robot -->
+        <rect x="90" y="50" width="120" height="60" fill="gray" rx="20" ry="20" />
+        <!-- Brazos del robot -->
+        <rect x="60" y="150" width="40" height="20" fill="gray" />
+        <rect x="200" y="150" width="40" height="20" fill="gray" />
+        <!-- Ojos del robot -->
+        <circle cx="120" cy="80" r="16" fill="lime" />
+        <circle cx="180" cy="80" r="16" fill="lime" />
+        <circle cx="120" cy="80" r="8" fill="white" />
+        <circle cx="180" cy="80" r="8" fill="white" />
+        <!-- Antena del robot -->
+        <circle cx="150" cy="30" r="10" fill="red" />
+        <line x1="150" y1="40" x2="150" y2="70" stroke="gray" stroke-width="6"/>
+        <!-- Botones del robot -->
+        <circle cx="150" cy="150" r="10" fill="red" />
+        <circle cx="150" cy="180" r="10" fill="lime" />
+        <circle cx="150" cy="210" r="10" fill="blue" />
+    </svg>
+
+    <h1>Imágenes de Mapa de Bits:</h1>
+    <!-- Imagen de un coche (Mapa de bits) -->
+    <img src="https://media.istockphoto.com/id/1157655660/es/foto/suv-rojo-gen%C3%A9rico-sobre-un-fondo-blanco-vista-lateral.jpg?s=612x612&w=0&k=20&c=0I2xA9oCnNUfluy5m1ErkM4NwHQOkhDUr2HwKXNO1z8=" alt="Coche" width="200">
+
+    <!-- Imagen de un robot (Mapa de bits) -->
+    <img src="data:image/png;base64,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" alt="Robot" width="200">
+
+    <!-- Imagen de una casa (Mapa de bits) -->
+    <img src="https://img.freepik.com/vector-gratis/dibujo-casa-aislada_23-2147502091.jpg" alt="casa" width="200">
+    <h3>Diferencias:</h3>
+    <p><strong>Imagenes SVG:</strong></p>
+    <ul>
+        <li>Las imagenes SVG se pueden escalar sin la perdida de calidad</li>
+        <li>Van muy bien para representar pequeñas ilustraciones...</li>
+        <li>El archivo tiene poco peso de GB.</li>
+    </ul>
+    <p><strong>Imagenes de Bits:</strong></p>
+    <ul>
+        <li>Las imagenes de bits nos proporcionan una resolucion fija</li>
+        <li>Sirven para fotografias e imagenes con detalle</li>
+    </ul>
+</body>
+</html>
