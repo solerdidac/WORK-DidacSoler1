@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductors d'Audio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Reproductors d'Àudio</h1>
+    <div class="audio-grid">
+        <!-- Primer reproductor -->
+        <div class="audio-box">
+            <h3>Alta Qualitat (FLAC)</h3>
+            <audio id="audio1" controls>
+                <source src="audios/altacalidad.flac" type="audio/flac">
+            </audio>
+            <button onclick="seekAudio('audio1', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio1', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio1', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio1', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 8000 MHz, 320 kbps
+            </div>
+        </div>
+
+        <!-- Segundo reproductor -->
+        <div class="audio-box">
+            <h3>Audio Estándar (FLAC)</h3>
+            <audio id="audio2" controls>
+                <source src="audios/audio.flac" type="audio/flac">
+            </audio>
+            <button onclick="seekAudio('audio2', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio2', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio2', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio2', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 170 kbps, 12000 MHz
+            </div>
+        </div>
+
+        <!-- Tercer reproductor -->
+        <div class="audio-box">
+            <h3>Mono (FLAC)</h3>
+            <audio id="audio3" controls>
+                <source src="audios/mono.flac" type="audio/flac">
+            </audio>
+            <button onclick="seekAudio('audio3', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio3', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio3', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio3', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 320 kbps, 10000 MHz
+            </div>
+        </div>
+
+        <!-- Cuarto reproductor -->
+        <div class="audio-box">
+            <h3>Alta Qualitat (MP3)</h3>
+            <audio id="audio4" controls>
+                <source src="audios/altacalidad.mp3" type="audio/mp3">
+            </audio>
+            <button onclick="seekAudio('audio4', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio4', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio4', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio4', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 8000 MHz, 320 kbps
+            </div>
+        </div>
+
+        <!-- Quinto reproductor -->
+        <div class="audio-box">
+            <h3>Audio Estándar (MP3)</h3>
+            <audio id="audio5" controls>
+                <source src="audios/audio.mp3" type="audio/mp3">
+            </audio>
+            <button onclick="seekAudio('audio5', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio5', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio5', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio5', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 170 kbps, 12000 MHz
+            </div>
+        </div>
+
+        <!-- Sexto reproductor -->
+        <div class="audio-box">
+            <h3>Mono (MP3)</h3>
+            <audio id="audio6" controls>
+                <source src="audios/mono.mp3" type="audio/mp3">
+            </audio>
+            <button onclick="seekAudio('audio6', -5)">Retrocedir 5s</button>
+            <button onclick="seekAudio('audio6', 5)">Avançar 5s</button>
+            <button onclick="changeSpeed('audio6', -0.1)">Mes lent</button>
+            <button onclick="changeSpeed('audio6', 0.1)">Mes ràpid</button>
+            <div class="audio-info">
+                <strong>Qualitat:</strong> 320 kbps, 10000 MHz
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
