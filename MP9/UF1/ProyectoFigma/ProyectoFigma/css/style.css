@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Estilo General */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #ffffff;
+    width: 45%;
+    margin: 0 auto;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Header del Nintendo  */
+.header {
+    background-color: #e4000f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+
+.header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+/* Estilo de Titulo y imagen */
+.main-content {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.main-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #e4000f;
+}
+
+.gameboy-image img {
+    width: 400px;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.description-section {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+.description-section .background-image img {
+    width: 250px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+/* Texto de descripcion */
+.description-text {
+    font-family:"Jersey 15", sans-serif;
+    max-width: 350px;
+    text-align: justify;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #333333;
+    border-radius: 5px;
+}
+
+/* Formulario */
+.opinion-form {
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #e4000f;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.opinion-form h2 {
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.form-group label {
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ffffff;
+    color: #e4000f;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #e4000f;
+    color: #ffffff;
+}
+
+
+.footer {
+    background-color: #e4000f;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Modo Oscuro */
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.toggle-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: #e4000f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.toggle-button:hover {
+    background-color: #c3000d;
+}
+
+.header.dark-mode {
+    background-color: #000000;
+    color: #e0e0e0;
+}
+
+.nav-links a.dark-mode {
+    color: #e0e0e0;
+}
+
+.main-content.dark-mode {
+    background-color: #000000;
+    color: #e0e0e0;
+}
+
+.main-content h1.dark-mode {
+    color: #bb86fc;
+}
+
+.description-section.dark-mode .background-image img {
+    filter: brightness(0.8);
+}
+
+.description-text.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.opinion-form.dark-mode {
+    background-color: #000000;
+    border-color: #e0e0e0;
+}
+
+.opinion-form h2.dark-mode {
+    color: #e0e0e0;
+}
+
+.form-group label.dark-mode {
+    color: #e0e0e0;
+}
+
+.form-group input.dark-mode {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    border-color: #444;
+}
+
+button.dark-mode {
+    background-color: #e0e0e0;
+    color: #121212;
+}
+
+button.dark-mode:hover {
+    color: #ffffff;
+}
+
+.footer.dark-mode {
+    background-color: #000000;
+    color: #e0e0e0;
+}
+ 
