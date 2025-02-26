@@ -1,0 +1,15 @@
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\bin\Debug\net8.0\LinkQ.exe
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\bin\Debug\net8.0\LinkQ.deps.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\bin\Debug\net8.0\LinkQ.runtimeconfig.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\bin\Debug\net8.0\LinkQ.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\bin\Debug\net8.0\LinkQ.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.AssemblyInfoInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.AssemblyInfo.cs
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.csproj.CoreCompileInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.sourcelink.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\refint\LinkQ.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\LinkQ.genruntimeconfig.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\LinkQ\obj\Debug\net8.0\ref\LinkQ.dll
