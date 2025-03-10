@@ -10,7 +10,7 @@ class Program
         Console.WriteLine(Regex.IsMatch("usuario@dominio.com", emailPattern));
 
         // Número de teléfono con formato 10 dígitos
-        string phonePattern = @"^\d{3}-\d{3}-\d{4}$";
+        string phonePattern = @"^\d{3}-\d{3}-\d{4}$";-
         Console.WriteLine(Regex.IsMatch("123-456-7890", phonePattern));
 
         // Fecha en formato día/mes/año

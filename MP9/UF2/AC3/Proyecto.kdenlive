@@ -1,0 +1,2202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="en_US.UTF-8" producer="main_bin" root="C:/Users/didac/OneDrive/Escritorio/2DAW/WORK-DidacSoler/MP9/UF2/AC3" version="7.28.0">
+ <profile colorspace="709" description="HD 1080p 30 fps" display_aspect_den="9" display_aspect_num="16" frame_rate_den="1" frame_rate_num="30" height="1080" progressive="1" sample_aspect_den="1" sample_aspect_num="1" width="1920"/>
+ <chain id="chain8" out="00:03:26.067">
+  <property name="length">6183</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">501278</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">640</property>
+  <property name="meta.media.2.codec.height">480</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=xWrlNkLrY_Q</property>
+  <property name="meta.attr.description.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{c79f906a-702e-45ab-bfe4-c18905de0084}</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">16921412</property>
+  <property name="kdenlive:file_hash">1be49541e76b5495e36c6d3e7dbca697</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">208</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain9" out="00:02:23.900">
+  <property name="length">4318</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL..mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">351098</property>
+  <property name="meta.attr.0.stream.language.markup">pol</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">pol</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL.</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=CHWS8IZ8g4k</property>
+  <property name="meta.attr.description.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{daee1a22-46c7-498d-8e97-cfb4a9b74148}</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9992843</property>
+  <property name="kdenlive:file_hash">14de046967ab89d74d7218c44872a7fe</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">205</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain12" out="00:01:59.900">
+  <property name="length">3598</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/BEVERLY HILLS 90210 TOUR EXCLUSIVO POR CASA DE LUJO.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2308794</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">fra</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">BEVERLY HILLS 90210 TOUR EXCLUSIVO POR CASA DE LUJO</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=WIoy7Xfzsgo</property>
+  <property name="meta.attr.description.markup">Residencia ultramoderna de acero y vidrio en lo alto de una cresta privada en Coldwater Canyon. 
+La última tecnología suiza proporciona una instalación de arquitectura y un hermoso diseño contemporáneo, diseñado para brindar comodidad, seguridad, lujo y disfrute. 
+Paredes enteras de vidrio se abren para ofrecer vistas panorámicas del cañón, la ciudad y el océano que se extienden hasta la isla Catalina en los hermosos días. Un imponente pino de piedra señala la entrada de invitados desde el patio amurallado hasta la puerta principal. La naturaleza rodea el entorno y abraza la impresionante arquitectura que protege. Los paneles de pared de fibrocemento externos prácticamente libres de mantenimiento nunca requieren pintura / mantenimiento. Las ventanas y puertas automáticas de triple panel mantienen temperaturas interiores perfectas y constantes en los días más cálidos o fríos. Las paredes de la galería exhiben una colección de arte en cada habitación. El entretenimiento al aire libre ofrece 2000 ft2 de terraza cubierta, cocina y comedor al aire libre con calefacción, salones para fogatas, todos con vistas serenas. Un trofeo de elegancia y lujo de clase mundial.
+
+
+Listado por: Douglas Eliman Real Estate
+
+�  Gloaming Way  #2341, Beverly Hills, CA, EUA, C.P. 90210. 
+�12,500,000 USD
+� 7,741 ft²
+� https://www.elliman.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Residencia ultramoderna de acero y vidrio en lo alto de una cresta privada en Coldwater Canyon. 
+La última tecnología suiza proporciona una instalación de arquitectura y un hermoso diseño contemporáneo, diseñado para brindar comodidad, seguridad, lujo y disfrute. 
+Paredes enteras de vidrio se abren para ofrecer vistas panorámicas del cañón, la ciudad y el océano que se extienden hasta la isla Catalina en los hermosos días. Un imponente pino de piedra señala la entrada de invitados desde el patio amurallado hasta la puerta principal. La naturaleza rodea el entorno y abraza la impresionante arquitectura que protege. Los paneles de pared de fibrocemento externos prácticamente libres de mantenimiento nunca requieren pintura / mantenimiento. Las ventanas y puertas automáticas de triple panel mantienen temperaturas interiores perfectas y constantes en los días más cálidos o fríos. Las paredes de la galería exhiben una colección de arte en cada habitación. El entretenimiento al aire libre ofrece 2000 ft2 de terraza cubierta, cocina y comedor al aire libre con calefacción, salones para fogatas, todos con vistas serenas. Un trofeo de elegancia y lujo de clase mundial.
+
+
+Listado por: Douglas Eliman Real Estate
+
+�  Gloaming Way  #2341, Beverly Hills, CA, EUA, C.P. 90210. 
+�12,500,000 USD
+� 7,741 ft²
+� https://www.elliman.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{60cec0b2-3edd-481d-aeff-c4c158fb371f}</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">37835657</property>
+  <property name="kdenlive:file_hash">423a842dce3084c450b75ea5d686cc00</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">208</property>
+  <property name="kdenlive:monitorPosition">1400</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain10" out="00:02:17.300">
+  <property name="length">4120</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HOUSE TOUR POR LUJOSA MANSIÓN DE BEL-AIR $55,000,000 USD ｜ ArQ.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">341345</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 06/26/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">128025</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 06/26/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HOUSE TOUR POR LUJOSA MANSIÓN DE BEL-AIR $55,000,000 USD | ArQ</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=hSlIsnkrBmE</property>
+  <property name="meta.attr.description.markup">El máximo lujo moderno, no se escatimaron gastos para crear esta residencia ultralujosa obra maestra de Bel-Air. Diseñada por el renombrado arquitecto Paul Mc  Clean, esta impresionante casa de 14,219 pies cuadrados incluye características insuperables y comodidades de cinco estrellas ubicadas en lo alto de la ciudad de Los Ángeles en una de las calles más codiciadas del Triángulo Platino. La ciudad explosiva con vistas al mar y una arquitectura impecable elevan esta residencia a algo más que un hogar; es una obra de arte.
+
+Con la pura perfección de líneas limpias con vidrio y mármol que fluyen libremente, meticulosamente elaborado con los mejores elementos, esta propiedad trofeo fue imaginada como una de las mejores residencias del mundo. No se escatimó ningún detalle en todo el espectacular plano de planta abierto que se abre a una de las mejores vistas de todo Bel-Air. Desde el momento en que ingresa, se siente complacido con una verdadera sensación de integración perfecta del lujo y un ambiente brillante que cuenta con vistas panorámicas de la ciudad incomparables, creando una experiencia de vida multisensorial sin precedentes.
+
+Aprovechando al máximo las impresionantes vistas, esta magnífica residencia de lujo cuenta con paredes de vidrio plegables que se abren a los espacios interiores de flujo libre, lo que proporciona una transición casi incomparable entre la vida interior y exterior. Al cruzar el umbral, una exquisita piscina de borde infinito enmarca perfectamente las impresionantes vistas panorámicas de la ciudad y más allá del océano. Construida para aquellos que aprecian las cosas buenas de la vida, esta increíble residencia representa el epítome de una vida de lujo prestigiosa en un oasis de arquitectura espectacular y estilo sensacional.
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">El máximo lujo moderno, no se escatimaron gastos para crear esta residencia ultralujosa obra maestra de Bel-Air. Diseñada por el renombrado arquitecto Paul Mc  Clean, esta impresionante casa de 14,219 pies cuadrados incluye características insuperables y comodidades de cinco estrellas ubicadas en lo alto de la ciudad de Los Ángeles en una de las calles más codiciadas del Triángulo Platino. La ciudad explosiva con vistas al mar y una arquitectura impecable elevan esta residencia a algo más que un hogar; es una obra de arte.
+
+Con la pura perfección de líneas limpias con vidrio y mármol que fluyen libremente, meticulosamente elaborado con los mejores elementos, esta propiedad trofeo fue imaginada como una de las mejores residencias del mundo. No se escatimó ningún detalle en todo el espectacular plano de planta abierto que se abre a una de las mejores vistas de todo Bel-Air. Desde el momento en que ingresa, se siente complacido con una verdadera sensación de integración perfecta del lujo y un ambiente brillante que cuenta con vistas panorámicas de la ciudad incomparables, creando una experiencia de vida multisensorial sin precedentes.
+
+Aprovechando al máximo las impresionantes vistas, esta magnífica residencia de lujo cuenta con paredes de vidrio plegables que se abren a los espacios interiores de flujo libre, lo que proporciona una transición casi incomparable entre la vida interior y exterior. Al cruzar el umbral, una exquisita piscina de borde infinito enmarca perfectamente las impresionantes vistas panorámicas de la ciudad y más allá del océano. Construida para aquellos que aprecian las cosas buenas de la vida, esta increíble residencia representa el epítome de una vida de lujo prestigiosa en un oasis de arquitectura espectacular y estilo sensacional.
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{d7312eb4-dc0c-498e-a554-38867cdccb1e}</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9332502</property>
+  <property name="kdenlive:file_hash">0f3ede8ecdbc8908260ba718e7b00feb</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">185</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain13" out="00:02:51.233">
+  <property name="length">5138</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  ｜ ArQ.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">424529</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">128025</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  | ArQ</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=RsrvO2CF-3s</property>
+  <property name="meta.attr.description.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{0c968f5d-376a-4da7-a257-73b1e5005fd2}</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">13310138</property>
+  <property name="kdenlive:file_hash">1b4e40845d1ba7ce82e620e6a57cae75</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">214</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain11" out="00:02:11.700">
+  <property name="length">3952</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/Yomoti - Second Side.mp3</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc58.13</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1280</property>
+  <property name="meta.media.1.codec.height">720</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Album cover</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">Yomoti - Second Side</property>
+  <property name="meta.attr.artist.markup">Epidemic Chill Beats</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.attr.synopsis.markup">♫ Chill beats playlist: https://www.youtube.com/playlist?list=PLEtyVUfTqsXI9-dz6IfkWrDuF6iF5jZY1
+♥ Subscribe to be part of our community: https://www.youtube.com/channel/UC3FMaszmblGnozbQXaAJFcQ?sub_confirmation=1
+
+Chill/jazzy/lo-fi hip-hop beats. We hope you like it! (◍•ᴗ•◍)❤
+
+We upload the best chill beats and chill music mixes used across the creator community. Subscribe and hit the notification bell to get updated when we publish new chill beats!
+
+Epidemic Hip-Hop: https://www.youtube.com/channel/UCLpwYue7hQziPi5QncMfneQ?sub_confirmation=1
+More channels from Epidemic Sound: https://www.youtube.com/channel/UC_sOjEnngNB2y_AEaDd2cSA/channels
+
+Get started to access over 40,000 music tracks and 90,000 sound effects for your content: https://www.epidemicsound.com/music/genres/alternative-hip-hop/?utm_source=youtube_music&amp;utm_medium=social&amp;utm_campaign=youtubechillbeats
+
+We believe in a world where music can flow freely and fairly across timezones, borders, audiences and channels. Thank you for being a part of our community! ♫
+
+#epidemicchillbeats #epidemicsound</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=Vp7Ov94C6h4</property>
+  <property name="meta.attr.description.markup">♫ Chill beats playlist: https://www.youtube.com/playlist?list=PLEtyVUfTqsXI9-dz6IfkWrDuF6iF5jZY1
+♥ Subscribe to be part of our community: https://www.youtube.com/channel/UC3FMaszmblGnozbQXaAJFcQ?sub_confirmation=1
+
+Chill/jazzy/lo-fi hip-hop beats. We hope you like it! (◍•ᴗ•◍)❤
+
+We upload the best chill beats and chill music mixes used across the creator community. Subscribe and hit the notification bell to get updated when we publish new chill beats!
+
+Epidemic Hip-Hop: https://www.youtube.com/channel/UCLpwYue7hQziPi5QncMfneQ?sub_confirmation=1
+More channels from Epidemic Sound: https://www.youtube.com/channel/UC_sOjEnngNB2y_AEaDd2cSA/channels
+
+Get started to access over 40,000 music tracks and 90,000 sound effects for your content: https://www.epidemicsound.com/music/genres/alternative-hip-hop/?utm_source=youtube_music&amp;utm_medium=social&amp;utm_campaign=youtubechillbeats
+
+We believe in a world where music can flow freely and fairly across timezones, borders, audiences and channels. Thank you for being a part of our community! ♫
+
+#epidemicchillbeats #epidemicsound</property>
+  <property name="meta.attr.date.markup">2019</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{afe15b19-c78a-44c8-aa0d-834b1b1cc0b6}</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">5363766</property>
+  <property name="kdenlive:file_hash">15dce032d8dc71957321a7d8e0f77d6e</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:audio_max0">256</property>
+  <property name="mute_on_pause">0</property>
+ </chain>
+ <chain id="chain14" out="00:00:25.000">
+  <property name="length">751</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/videoplayback.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">151086</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2023-07-22T12:28:45.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">dash</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">iso6avc1mp41</property>
+  <property name="meta.attr.creation_time.markup">2023-07-22T12:28:45.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:control_uuid">{39d822d1-29a7-4825-823e-7d59e696b04a}</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">501832</property>
+  <property name="kdenlive:file_hash">41efd42b47fc42aafe89520e235fd52e</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </chain>
+ <producer id="producer0" in="00:00:00.000" out="00:14:36.200">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:playlistid">black_track</property>
+  <property name="mlt_image_format">rgba</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <chain id="chain0" out="00:03:26.067">
+  <property name="length">6183</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{c79f906a-702e-45ab-bfe4-c18905de0084}</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">16921412</property>
+  <property name="kdenlive:file_hash">1be49541e76b5495e36c6d3e7dbca697</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">208</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">501278</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">640</property>
+  <property name="meta.media.2.codec.height">480</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=xWrlNkLrY_Q</property>
+  <property name="meta.attr.description.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <chain id="chain1" out="00:02:23.900">
+  <property name="length">4318</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL..mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{daee1a22-46c7-498d-8e97-cfb4a9b74148}</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9992843</property>
+  <property name="kdenlive:file_hash">14de046967ab89d74d7218c44872a7fe</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">205</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">351098</property>
+  <property name="meta.attr.0.stream.language.markup">pol</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">pol</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL.</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=CHWS8IZ8g4k</property>
+  <property name="meta.attr.description.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:02:08.000"/>
+  <entry in="00:00:00.000" out="00:03:26.067" producer="chain0">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <blank length="00:02:46.800"/>
+  <entry in="00:00:00.000" out="00:01:13.467" producer="chain1">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter0" in="00:01:10.467" out="00:01:13.467">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000" out="00:09:34.367">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">110</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+  <filter id="filter1">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter2">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter3">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <chain id="chain2" out="00:02:11.700">
+  <property name="length">3952</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/Yomoti - Second Side.mp3</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{afe15b19-c78a-44c8-aa0d-834b1b1cc0b6}</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">5363766</property>
+  <property name="kdenlive:file_hash">15dce032d8dc71957321a7d8e0f77d6e</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:audio_max0">256</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc58.13</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1280</property>
+  <property name="meta.media.1.codec.height">720</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Album cover</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">Yomoti - Second Side</property>
+  <property name="meta.attr.artist.markup">Epidemic Chill Beats</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.attr.synopsis.markup">♫ Chill beats playlist: https://www.youtube.com/playlist?list=PLEtyVUfTqsXI9-dz6IfkWrDuF6iF5jZY1
+♥ Subscribe to be part of our community: https://www.youtube.com/channel/UC3FMaszmblGnozbQXaAJFcQ?sub_confirmation=1
+
+Chill/jazzy/lo-fi hip-hop beats. We hope you like it! (◍•ᴗ•◍)❤
+
+We upload the best chill beats and chill music mixes used across the creator community. Subscribe and hit the notification bell to get updated when we publish new chill beats!
+
+Epidemic Hip-Hop: https://www.youtube.com/channel/UCLpwYue7hQziPi5QncMfneQ?sub_confirmation=1
+More channels from Epidemic Sound: https://www.youtube.com/channel/UC_sOjEnngNB2y_AEaDd2cSA/channels
+
+Get started to access over 40,000 music tracks and 90,000 sound effects for your content: https://www.epidemicsound.com/music/genres/alternative-hip-hop/?utm_source=youtube_music&amp;utm_medium=social&amp;utm_campaign=youtubechillbeats
+
+We believe in a world where music can flow freely and fairly across timezones, borders, audiences and channels. Thank you for being a part of our community! ♫
+
+#epidemicchillbeats #epidemicsound</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=Vp7Ov94C6h4</property>
+  <property name="meta.attr.description.markup">♫ Chill beats playlist: https://www.youtube.com/playlist?list=PLEtyVUfTqsXI9-dz6IfkWrDuF6iF5jZY1
+♥ Subscribe to be part of our community: https://www.youtube.com/channel/UC3FMaszmblGnozbQXaAJFcQ?sub_confirmation=1
+
+Chill/jazzy/lo-fi hip-hop beats. We hope you like it! (◍•ᴗ•◍)❤
+
+We upload the best chill beats and chill music mixes used across the creator community. Subscribe and hit the notification bell to get updated when we publish new chill beats!
+
+Epidemic Hip-Hop: https://www.youtube.com/channel/UCLpwYue7hQziPi5QncMfneQ?sub_confirmation=1
+More channels from Epidemic Sound: https://www.youtube.com/channel/UC_sOjEnngNB2y_AEaDd2cSA/channels
+
+Get started to access over 40,000 music tracks and 90,000 sound effects for your content: https://www.epidemicsound.com/music/genres/alternative-hip-hop/?utm_source=youtube_music&amp;utm_medium=social&amp;utm_campaign=youtubechillbeats
+
+We believe in a world where music can flow freely and fairly across timezones, borders, audiences and channels. Thank you for being a part of our community! ♫
+
+#epidemicchillbeats #epidemicsound</property>
+  <property name="meta.attr.date.markup">2019</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <chain id="chain3" out="00:02:51.233">
+  <property name="length">5138</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  ｜ ArQ.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{0c968f5d-376a-4da7-a257-73b1e5005fd2}</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">13310138</property>
+  <property name="kdenlive:file_hash">1b4e40845d1ba7ce82e620e6a57cae75</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">214</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">424529</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">128025</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  | ArQ</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=RsrvO2CF-3s</property>
+  <property name="meta.attr.description.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <entry in="00:00:00.000" out="00:02:11.700" producer="chain2">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <blank length="00:03:19.967"/>
+  <entry in="00:00:00.000" out="00:02:51.233" producer="chain3">
+   <property name="kdenlive:id">8</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor1" in="00:00:00.000" out="00:08:22.933">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">110</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist2"/>
+  <track hide="video" producer="playlist3"/>
+  <filter id="filter4">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter5">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter6">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <chain id="chain4" out="00:01:59.900">
+  <property name="length">3598</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/BEVERLY HILLS 90210 TOUR EXCLUSIVO POR CASA DE LUJO.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{60cec0b2-3edd-481d-aeff-c4c158fb371f}</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">37835657</property>
+  <property name="kdenlive:file_hash">423a842dce3084c450b75ea5d686cc00</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">208</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2308794</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">fra</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">BEVERLY HILLS 90210 TOUR EXCLUSIVO POR CASA DE LUJO</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=WIoy7Xfzsgo</property>
+  <property name="meta.attr.description.markup">Residencia ultramoderna de acero y vidrio en lo alto de una cresta privada en Coldwater Canyon. 
+La última tecnología suiza proporciona una instalación de arquitectura y un hermoso diseño contemporáneo, diseñado para brindar comodidad, seguridad, lujo y disfrute. 
+Paredes enteras de vidrio se abren para ofrecer vistas panorámicas del cañón, la ciudad y el océano que se extienden hasta la isla Catalina en los hermosos días. Un imponente pino de piedra señala la entrada de invitados desde el patio amurallado hasta la puerta principal. La naturaleza rodea el entorno y abraza la impresionante arquitectura que protege. Los paneles de pared de fibrocemento externos prácticamente libres de mantenimiento nunca requieren pintura / mantenimiento. Las ventanas y puertas automáticas de triple panel mantienen temperaturas interiores perfectas y constantes en los días más cálidos o fríos. Las paredes de la galería exhiben una colección de arte en cada habitación. El entretenimiento al aire libre ofrece 2000 ft2 de terraza cubierta, cocina y comedor al aire libre con calefacción, salones para fogatas, todos con vistas serenas. Un trofeo de elegancia y lujo de clase mundial.
+
+
+Listado por: Douglas Eliman Real Estate
+
+�  Gloaming Way  #2341, Beverly Hills, CA, EUA, C.P. 90210. 
+�12,500,000 USD
+� 7,741 ft²
+� https://www.elliman.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Residencia ultramoderna de acero y vidrio en lo alto de una cresta privada en Coldwater Canyon. 
+La última tecnología suiza proporciona una instalación de arquitectura y un hermoso diseño contemporáneo, diseñado para brindar comodidad, seguridad, lujo y disfrute. 
+Paredes enteras de vidrio se abren para ofrecer vistas panorámicas del cañón, la ciudad y el océano que se extienden hasta la isla Catalina en los hermosos días. Un imponente pino de piedra señala la entrada de invitados desde el patio amurallado hasta la puerta principal. La naturaleza rodea el entorno y abraza la impresionante arquitectura que protege. Los paneles de pared de fibrocemento externos prácticamente libres de mantenimiento nunca requieren pintura / mantenimiento. Las ventanas y puertas automáticas de triple panel mantienen temperaturas interiores perfectas y constantes en los días más cálidos o fríos. Las paredes de la galería exhiben una colección de arte en cada habitación. El entretenimiento al aire libre ofrece 2000 ft2 de terraza cubierta, cocina y comedor al aire libre con calefacción, salones para fogatas, todos con vistas serenas. Un trofeo de elegancia y lujo de clase mundial.
+
+
+Listado por: Douglas Eliman Real Estate
+
+�  Gloaming Way  #2341, Beverly Hills, CA, EUA, C.P. 90210. 
+�12,500,000 USD
+� 7,741 ft²
+� https://www.elliman.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
+ <chain id="chain5" out="00:02:51.233">
+  <property name="length">5138</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  ｜ ArQ.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{0c968f5d-376a-4da7-a257-73b1e5005fd2}</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">13310138</property>
+  <property name="kdenlive:file_hash">1b4e40845d1ba7ce82e620e6a57cae75</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">214</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">424529</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">128025</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 10/31/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HOUSE TOUR DENTRO DE MANSIÓN DE LUJO EN LOS ANGELES  | ArQ</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=RsrvO2CF-3s</property>
+  <property name="meta.attr.description.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">En esta hermosa residencia ubicada a un lado de una de las calles más exclusivas de Westside, encontraras elegancia, tranquilidad y lujo. 
+
+Al entrar te verás inmerso en un ambiente de luz natural que armónicamente te presenta una increíble piscina infinita y arboles de copa alta, creando un ambiente Zen idílico
+
+Ésta moderna residencia de 6 camas y 9 baños fue diseñada y construida con buen gusto por Ramtin Ray Norati. Creando simetría y arte natural, cada habitación captura un momento de vistas sin obstáculos y de frente a exuberantes árboles y montañas. 
+Con aspectos destacados que incluyen un refugio principal bellamente diseñado con un espacioso vestidor, sala de cine, sala de vinos, gimnasio y terraza en la azotea de servicio completo, esta propiedad es para los gustos más exigentes.
+
+Listado por: The Agency Real State 
+
+� Avenida Kenfield # 950, Los Angeles, CA, EUA, C.P. 90049.
+�12,000,000 USD
+� 9,3000 ft²
+� https://www.theagencyre.com/idx/listing/950-Kenfield-Avenue_Los-Angeles_CA_90049_MLS_20636670/california_regional_multiple_listing_service~c1f81e11-fc21-4ccb-b8ed-077be0385aff
+
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casas bonitas, ideas de diseño, coreano inmuebles, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
+ <playlist id="playlist4">
+  <entry in="00:00:00.000" out="00:01:37.633" producer="chain4">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <blank length="00:03:08.600"/>
+  <entry in="00:00:00.000" out="00:02:41.133" producer="chain5">
+   <property name="kdenlive:id">8</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:07:27.400">
+  <property name="kdenlive:trackheight">110</property>
+  <property name="kdenlive:timeline_active">0</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <chain id="chain6" out="00:03:26.067">
+  <property name="length">6183</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{c79f906a-702e-45ab-bfe4-c18905de0084}</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">16921412</property>
+  <property name="kdenlive:file_hash">1be49541e76b5495e36c6d3e7dbca697</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">208</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">501278</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 08/07/2023.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">640</property>
+  <property name="meta.media.2.codec.height">480</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">HERMOSA CASA ESTILO TROPICAL EN CALIFORNIA</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=xWrlNkLrY_Q</property>
+  <property name="meta.attr.description.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Un oasis orgánico moderno tropical cálido ubicado en el corazón de todo, a solo unos pasos de Sunset Strip y entre las legendarias Trousdale Estates y The Bird Streets. Esta finca privada y cerrada no tiene rival en estilo y está diseñada con solo la más alta calidad en acabados de primera línea y su combinación única de Sunset Strip y Tailandia que ofrece un estilo de vida sin precedentes hasta ahora.  Un plano de planta abierto magistralmente diseñado con un flujo interior / exterior le brinda ese estilo de vida californiano por excelencia. Entre en el regazo del lujo moderno, cada espacio perfectamente dividido para la máxima comodidad y cada faceta controlable desde el teléfono. Equipado solo con lo mejor:  piscina y spa de borde cero, cascada, fogatas y terraza en la azotea que ofrecen una de las mejores vistas de la ciudad de Century City al océano.
+
+Listado por: Hilton &amp; Hyland
+� 1240 Sierra Alta Way, Los Angeles, CA 90068
+�8,500,000 USD
+� 9,508 ft²
+� https://www.hiltonhyland.com/
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, coreano inmuebles, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
+ <chain id="chain7" out="00:02:23.900">
+  <property name="length">4318</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/didac/Downloads/TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL..mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{daee1a22-46c7-498d-8e97-cfb4a9b74148}</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9992843</property>
+  <property name="kdenlive:file_hash">14de046967ab89d74d7218c44872a7fe</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max1">205</property>
+  <property name="kdenlive:monitorPosition">0</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">351098</property>
+  <property name="meta.attr.0.stream.language.markup">pol</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127999</property>
+  <property name="meta.attr.1.stream.language.markup">pol</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc. Created on: 02/05/2025.</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">1280</property>
+  <property name="meta.media.2.codec.height">720</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">rgb24</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.colorspace">0</property>
+  <property name="meta.media.2.codec.name">png</property>
+  <property name="meta.media.2.codec.long_name">PNG (Portable Network Graphics) image</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.title.markup">TOUR POR MANSIÓN MILLONARIA CON VISTA A LOS ANGELES  CAL.</property>
+  <property name="meta.attr.artist.markup">ArQ</property>
+  <property name="meta.attr.date.markup">20200910</property>
+  <property name="meta.attr.encoder.markup">Lavf61.9.100</property>
+  <property name="meta.attr.comment.markup">https://www.youtube.com/watch?v=CHWS8IZ8g4k</property>
+  <property name="meta.attr.description.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.attr.synopsis.markup">Una visión arquitectónica sin concesiones que establece el estándar de diseño, calidad y sofisticación por encima de Sunset Strip. Con 5 habitaciones y 7 baños, combinados a la perfección combinando el flujo moderno de mediados de siglo, las líneas limpias, puertas y ventanas Styline de piso a techo, con vistas incomparables desde un avión de pasajeros desde la ciudad hasta el océano y la montaña, ubicadas sobre una piscina infinita de borde cero, que ofrece algunas de las mejores vistas individuales de la ciudad. Calidad superior en todos los aspectos y materiales, desde la cocina completa Miele hasta los accesorios alemanes Badeloft. Casa inteligente completamente integrada, bar de nivel inferior, gimnasio, degustación de vinos y teatro Dolby Atmos para 12 asientos.
+
+Listado por: The Altman Brothers
+
+� 1807 Blue Heights Dr, Los Angeles, CA 90069
+�7,000,000 USD
+� 5,540 ft²
+�www.thealtmanbrothers.com
+
+✨Nota: 
+En ArQ somos apasionados por la arquitectura y el diseño, NO somos vendedores ni agentes de bienes raíces y nuestro único objetivo es compartir imágenes de los hogares mas hermosos y exclusivos del mundo.
+Favor de enviar un mensaje si tiene alguna opinión, idea o asuntos relacionados a los derechos de autor. 
+E-mail: arqx.info@gmail.com
+
+✨Note: 
+We ArQ  are passionate about architecture and design, we are NOT sellers or real estate agents and our only goal is to share images of the most beautiful and exclusive homes in the world.
+Please send a message if you have any opinions, ideas or issues related to copyright. 
+***If you want to have this video removed for whatever reason, please contact us first! ***
+E-mail: arqx.info@gmail.com
+
+
+�Tags:
+Arquitectura, ArQ, arquitecto, arquitectura contemporánea, propiedades, hogar, casa, mansión, mansión tour, residencia, bienes raíces, lujosa, millonario, casa de famosos, house tour, casa de mis sueños, visualización ley de la atracción, diseño interior ideas, planos de casas, casas modernas, inmuebles, inmobiliaria, zona exclusiva, tablero de los sueños, coreano inmuebles, pintura de diseño de interior, estilo de vida millonario, decoración de interiores, sala, cocina, recamara, baño, jardín, cochera, gimnasio en casa, fachada, Monterrey Ciudad de México, Guadalajara, Bel-Air, Hollywood, Los Ángeles, Nueva York, California.</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="mute_on_pause">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
+ <playlist id="playlist6">
+  <blank length="00:01:31.400"/>
+  <entry in="00:00:00.000" out="00:03:16.967" producer="chain6">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <blank length="00:02:34.667"/>
+  <entry in="00:00:00.000" out="00:00:04.333" producer="chain7">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter7">
+    <property name="version">0.6</property>
+    <property name="mlt_service">frei0r.select0r</property>
+    <property name="kdenlive_id">frei0r.select0r</property>
+    <property name="Color to select">00:00:00.000=0x000000ff</property>
+    <property name="Invert selection">1</property>
+    <property name="Selection subspace">0</property>
+    <property name="Subspace shape">0.5</property>
+    <property name="Edge mode">0.9</property>
+    <property name="Delta R / A / Hue">00:00:00.000=1</property>
+    <property name="Delta G / B / Chroma">00:00:00.000=1</property>
+    <property name="Delta B / I / I">00:00:00.000=0.102</property>
+    <property name="Slope">00:00:00.000=0</property>
+    <property name="Operation">0.5</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:04.367" out="00:02:13.100" producer="chain7">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter8" in="00:02:10.400" out="00:02:13.100">
+    <property name="start">1</property>
+    <property name="level">00:00:00.000qq=1;00:00:02.700qq=0</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="alpha">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000" out="00:09:36.167">
+  <property name="kdenlive:trackheight">110</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="audio" producer="playlist7"/>
+ </tractor>
+ <tractor id="tractor4" in="00:00:00.000" out="00:09:36.167">
+  <property name="kdenlive:duration">00:09:36.200</property>
+  <property name="kdenlive:maxduration">17286</property>
+  <property name="kdenlive:clipname">Sequence 1</property>
+  <property name="kdenlive:description"/>
+  <property name="kdenlive:uuid">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:producer_type">17</property>
+  <property name="kdenlive:control_uuid">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_hash">6a36eac1003ee1bc5fa422ae6a1f0cff</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">1</property>
+  <property name="kdenlive:sequenceproperties.audioTarget">1</property>
+  <property name="kdenlive:sequenceproperties.disablepreview">0</property>
+  <property name="kdenlive:sequenceproperties.documentuuid">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:sequenceproperties.hasAudio">1</property>
+  <property name="kdenlive:sequenceproperties.hasVideo">1</property>
+  <property name="kdenlive:sequenceproperties.lastUsedFrame">0</property>
+  <property name="kdenlive:sequenceproperties.position">2202</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">373</property>
+  <property name="kdenlive:sequenceproperties.tracks">4</property>
+  <property name="kdenlive:sequenceproperties.tracksCount">4</property>
+  <property name="kdenlive:sequenceproperties.verticalzoom">1</property>
+  <property name="kdenlive:sequenceproperties.videoTarget">2</property>
+  <property name="kdenlive:sequenceproperties.zonein">0</property>
+  <property name="kdenlive:sequenceproperties.zoneout">75</property>
+  <property name="kdenlive:sequenceproperties.zoom">9</property>
+  <property name="kdenlive:sequenceproperties.groups">[
+]
+</property>
+  <property name="kdenlive:sequenceproperties.guides">[
+]
+</property>
+  <track producer="producer0"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <transition id="transition0" in="00:04:46.800" out="00:04:49.767">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="geometry">0=0% 0% 100% 100% 100%;-1=0% 0% 100% 100% 0%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">wipe</property>
+   <property name="luma"/>
+   <property name="softness">0</property>
+   <property name="luma_invert">0</property>
+   <property name="fill">1</property>
+  </transition>
+  <transition id="transition1" in="00:01:31.400" out="00:01:34.367">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="factory">loader</property>
+   <property name="resource"/>
+   <property name="mlt_service">luma</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="softness">0</property>
+   <property name="reverse">0</property>
+   <property name="alpha_over">1</property>
+   <property name="fix_background_alpha">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter9">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter10">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <playlist id="main_bin">
+  <property name="kdenlive:folder.-1.2">Sequences</property>
+  <property name="kdenlive:sequenceFolder">2</property>
+  <property name="kdenlive:docproperties.activetimeline">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.binsort">0</property>
+  <property name="kdenlive:docproperties.browserurl"/>
+  <property name="kdenlive:docproperties.documentid">1739873467862</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams"/>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Categoría 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Categoría 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Categoría 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Categoría 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Categoría 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Categoría 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Categoría 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Categoría 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Categoría 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">24.12.1</property>
+  <property name="kdenlive:docproperties.opensequences">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.sessionid">{72f9c878-1730-446c-93cc-26f82c1e1b30}</property>
+  <property name="kdenlive:docproperties.uuid">{391e59e6-672e-47c9-b178-97b7d92ddcd9}</property>
+  <property name="kdenlive:docproperties.version">1.1</property>
+  <property name="kdenlive:expandedFolders">2</property>
+  <property name="kdenlive:binZoom">4</property>
+  <property name="kdenlive:extraBins">project_bin:-1:0</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:documentnotesversion">2</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">-1</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">960</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">C:/Users/didac/Videos/Proyecto.mp4</property>
+  <property name="xml_retain">1</property>
+  <entry in="00:00:00.000" out="00:03:26.067" producer="chain8"/>
+  <entry in="00:00:00.000" out="00:02:23.900" producer="chain9"/>
+  <entry in="00:00:00.000" out="00:01:59.900" producer="chain12"/>
+  <entry in="00:00:00.000" out="00:02:17.300" producer="chain10"/>
+  <entry in="00:00:00.000" out="00:02:51.233" producer="chain13"/>
+  <entry in="00:00:00.000" out="00:02:11.700" producer="chain11"/>
+  <entry in="00:00:00.000" out="00:00:25.000" producer="chain14"/>
+  <entry in="00:00:00.000" out="00:09:36.167" producer="tractor4"/>
+ </playlist>
+ <tractor id="tractor5" in="00:00:00.000" out="00:09:36.167">
+  <property name="kdenlive:projectTractor">1</property>
+  <track in="00:00:00.000" out="00:09:36.167" producer="tractor4"/>
+ </tractor>
+</mlt>
