@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+    <!-- Cuerpo del coche -->
+    <rect x="50" y="100" width="200" height="50" fill="red" />
+    <!-- Techo del coche -->
+    <rect x="90" y="60" width="120" height="50" fill="red" />
+    <!-- Ventanas del coche -->
+    <rect x="100" y="75" width="40" height="20" fill="lightblue" />
+    <rect x="160" y="75" width="40" height="20" fill="lightblue" />
+    <!-- Ruedas del coche -->
+    <circle cx="80" cy="150" r="20" fill="gray" />
+    <circle cx="80" cy="150" r="12" fill="black" />
+    <circle cx="220" cy="150" r="20" fill="gray" />
+    <circle cx="220" cy="150" r="12" fill="black" />
+    <!-- Faros del coche -->
+    <rect x="50" y="110" width="10" height="10" fill="yellow" />
+    <rect x="240" y="110" width="10" height="10" fill="yellow" />
+</svg> 

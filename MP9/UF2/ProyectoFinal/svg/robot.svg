@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+    <!-- Cuerpo del robot -->
+    <rect x="100" y="120" width="100" height="120" fill="gray" />
+    <!-- Cabeza del robot -->
+    <rect x="90" y="50" width="120" height="60" fill="gray" rx="20" ry="20" />
+    <!-- Brazos del robot -->
+    <rect x="60" y="150" width="40" height="20" fill="gray" />
+    <rect x="200" y="150" width="40" height="20" fill="gray" />
+    <!-- Ojos del robot -->
+    <circle cx="120" cy="80" r="16" fill="lime" />
+    <circle cx="180" cy="80" r="16" fill="lime" />
+    <circle cx="120" cy="80" r="8" fill="white" />
+    <circle cx="180" cy="80" r="8" fill="white" />
+    <!-- Antena del robot -->
+    <circle cx="150" cy="30" r="10" fill="red" />
+    <line x1="150" y1="40" x2="150" y2="70" stroke="gray" stroke-width="6"/>
+    <!-- Botones del robot -->
+    <circle cx="150" cy="150" r="10" fill="red" />
+    <circle cx="150" cy="180" r="10" fill="lime" />
+    <circle cx="150" cy="210" r="10" fill="blue" />
+</svg>
