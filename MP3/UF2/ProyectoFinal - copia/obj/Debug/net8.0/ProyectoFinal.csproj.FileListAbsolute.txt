@@ -1,0 +1,15 @@
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.sourcelink.json
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\didac\OneDrive\Escritorio\2DAW\WORK-DidacSoler\MP3\UF2\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
