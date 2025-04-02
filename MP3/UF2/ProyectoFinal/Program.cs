@@ -14,10 +14,10 @@ namespace SlotMachineGame
     {
         static async Task Main(string[] args)
         {
-            Console.Write("Ingrese su nombre: ");
+            Console.Write("Nombre: ");
             string userName = Console.ReadLine();
 
-            Console.WriteLine($"\nBienvenido, {userName}. Iniciando juego de Slots para producción de robots.");
+            Console.WriteLine($"\nBienvenido, {userName}. Iniciando juego de slots de robots.");
             int tiradas = 10;
             int bonusTotal = 0;
 
@@ -43,7 +43,6 @@ namespace SlotMachineGame
                         orderManager.AddOrder(robot);
                     }
 
-                    // Resultado Tirada
                     Console.Write("Tirada " + (i + 1) + ": ");
                     foreach (var robot in robotsTirada)
                     {
@@ -61,7 +60,7 @@ namespace SlotMachineGame
                         tiradaBonus = 5;
 
                     bonusTotal += tiradaBonus;
-                    Console.WriteLine($"Bonus en esta tirada: {tiradaBonus}");
+                    Console.WriteLine($"Bonus: {tiradaBonus}");
                 }
                 catch (Exception ex)
                 {
@@ -92,9 +91,9 @@ namespace SlotMachineGame
 
             int totalScore = bonusTotal + extraPoints;
             Console.WriteLine("\n--- Resumen de la Partida ---");
-            Console.WriteLine($"Total Bonus acumulado: {bonusTotal}");
+            Console.WriteLine($"Bonus acumulado: {bonusTotal}");
             Console.WriteLine($"Puntos extra por robots: {extraPoints}");
-            Console.WriteLine($"Puntuación total final para {userName}: {totalScore}");
+            Console.WriteLine($"Puntuacion total final para {userName}: {totalScore}");
 
             // Guardar resultado 
             string record = $"{userName}:{totalScore}{Environment.NewLine}";
@@ -103,7 +102,7 @@ namespace SlotMachineGame
             Console.WriteLine("\nEl registro de la partida se ha guardado en 'scores.txt'");
 
             // Top 3
-            Console.WriteLine("\n--- Top 3 Puntuaciones ---");
+            Console.WriteLine("\n--- Top 3 ---");
             var top3 = GetTop3Scores(filePath);
             int rank = 1;
             foreach (var entry in top3)
