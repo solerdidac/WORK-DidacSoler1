@@ -4,3 +4,4 @@ Sergi:105
 Martinez:89
 Joan:92
 Merino:97
+soler:98
